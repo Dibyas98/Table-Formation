@@ -1,4 +1,4 @@
-# Table-Formation
+# Hosted Link:- https://github.com/Dibyas98/Table-Formation
 ![Screenshot 2023-07-29 142345](https://github.com/Dibyas98/Table-Formation/assets/125633895/7147214d-fc26-42a2-8d69-f4e78a75706b)
 Table row and inside it table head is used and inside it table head tag is used with strong tag is used to make the letter bold.
 ![Screenshot 2023-07-29 142359](https://github.com/Dibyas98/Table-Formation/assets/125633895/945fd97f-59f3-4f0e-ac88-d5a10fd992cd)
